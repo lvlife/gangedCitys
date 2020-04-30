@@ -1,0 +1,3865 @@
+{
+    "areaBeans": [
+        {
+            "areaid": "1-01-01",
+            "name": "安徽",
+            "pinyin": "Anhui",
+            "shortpinyin": "AH",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-01-01",
+            "name": "安庆",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-02",
+            "name": "蚌埠",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-04",
+            "name": "巢湖",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-06",
+            "name": "滁州",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-17",
+            "name": "阜阳",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-22",
+            "name": "亳州",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-23",
+            "name": "合肥",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-27",
+            "name": "淮北",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-28",
+            "name": "淮南",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-29",
+            "name": "黄山",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-42",
+            "name": "六安",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-44",
+            "name": "马鞍山",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-58",
+            "name": "宿州",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-65",
+            "name": "铜陵",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-71",
+            "name": "芜湖",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-76",
+            "name": "宣城",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-01-81",
+            "name": "池州",
+            "type": "c",
+            "parentId": "1-01-01"
+        },
+        {
+            "areaid": "1-01-02",
+            "name": "北京",
+            "pinyin": "Beijing",
+            "shortpinyin": "BJ",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-02-01",
+            "name": "北京",
+            "type": "c",
+            "parentId": "1-01-02"
+        },
+        {
+            "areaid": "1-01-03",
+            "name": "福建",
+            "pinyin": "Fujian",
+            "shortpinyin": "FJ",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-03-12",
+            "name": "福州",
+            "type": "c",
+            "parentId": "1-01-03"
+        },
+        {
+            "areaid": "1-01-03-26",
+            "name": "龙岩",
+            "type": "c",
+            "parentId": "1-01-03"
+        },
+        {
+            "areaid": "1-01-03-33",
+            "name": "南平",
+            "type": "c",
+            "parentId": "1-01-03"
+        },
+        {
+            "areaid": "1-01-03-35",
+            "name": "宁德",
+            "type": "c",
+            "parentId": "1-01-03"
+        },
+        {
+            "areaid": "1-01-03-40",
+            "name": "莆田",
+            "type": "c",
+            "parentId": "1-01-03"
+        },
+        {
+            "areaid": "1-01-03-43",
+            "name": "泉州",
+            "type": "c",
+            "parentId": "1-01-03"
+        },
+        {
+            "areaid": "1-01-03-44",
+            "name": "三明",
+            "type": "c",
+            "parentId": "1-01-03"
+        },
+        {
+            "areaid": "1-01-03-56",
+            "name": "厦门",
+            "type": "c",
+            "parentId": "1-01-03"
+        },
+        {
+            "areaid": "1-01-03-65",
+            "name": "漳州",
+            "type": "c",
+            "parentId": "1-01-03"
+        },
+        {
+            "areaid": "1-01-04",
+            "name": "甘肃",
+            "pinyin": "Gansu",
+            "shortpinyin": "GS",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-04-07",
+            "name": "定西",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-25",
+            "name": "嘉峪关",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-29",
+            "name": "酒泉",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-32",
+            "name": "兰州",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-37",
+            "name": "临夏",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-47",
+            "name": "平凉",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-50",
+            "name": "庆阳",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-54",
+            "name": "天水",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-61",
+            "name": "武威",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-70",
+            "name": "张掖",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-78",
+            "name": "甘南",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-90",
+            "name": "白银",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-91",
+            "name": "金昌",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-04-92",
+            "name": "陇南",
+            "type": "c",
+            "parentId": "1-01-04"
+        },
+        {
+            "areaid": "1-01-05",
+            "name": "广东",
+            "pinyin": "Guangdong",
+            "shortpinyin": "GD",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-05-04",
+            "name": "东莞",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-07",
+            "name": "佛山",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-08",
+            "name": "广州",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-11",
+            "name": "河源",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-16",
+            "name": "惠州",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-17",
+            "name": "江门",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-25",
+            "name": "茂名",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-26",
+            "name": "梅州",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-28",
+            "name": "清远",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-32",
+            "name": "汕头",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-33",
+            "name": "韶关",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-34",
+            "name": "深圳",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-38",
+            "name": "阳江",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-42",
+            "name": "湛江",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-43",
+            "name": "肇庆",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-44",
+            "name": "中山",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-45",
+            "name": "珠海",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-90",
+            "name": "潮州",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-91",
+            "name": "揭阳",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-92",
+            "name": "汕尾",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-05-93",
+            "name": "云浮",
+            "type": "c",
+            "parentId": "1-01-05"
+        },
+        {
+            "areaid": "1-01-06",
+            "name": "广西",
+            "pinyin": "Guangxi",
+            "shortpinyin": "GX",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-06-02",
+            "name": "百色",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-03",
+            "name": "北海",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-05",
+            "name": "崇左",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-09",
+            "name": "防城港",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-12",
+            "name": "贵港",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-13",
+            "name": "桂林",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-15",
+            "name": "河池",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-18",
+            "name": "来宾",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-21",
+            "name": "柳州",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-28",
+            "name": "南宁",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-31",
+            "name": "钦州",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-38",
+            "name": "梧州",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-90",
+            "name": "贺州",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-06-91",
+            "name": "玉林",
+            "type": "c",
+            "parentId": "1-01-06"
+        },
+        {
+            "areaid": "1-01-07",
+            "name": "贵州",
+            "pinyin": "Guizhou",
+            "shortpinyin": "GZ",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-07-01",
+            "name": "安顺",
+            "type": "c",
+            "parentId": "1-01-07"
+        },
+        {
+            "areaid": "1-01-07-02",
+            "name": "毕节",
+            "type": "c",
+            "parentId": "1-01-07"
+        },
+        {
+            "areaid": "1-01-07-09",
+            "name": "贵阳",
+            "type": "c",
+            "parentId": "1-01-07"
+        },
+        {
+            "areaid": "1-01-07-13",
+            "name": "六盘水",
+            "type": "c",
+            "parentId": "1-01-07"
+        },
+        {
+            "areaid": "1-01-07-25",
+            "name": "铜仁",
+            "type": "c",
+            "parentId": "1-01-07"
+        },
+        {
+            "areaid": "1-01-07-36",
+            "name": "遵义",
+            "type": "c",
+            "parentId": "1-01-07"
+        },
+        {
+            "areaid": "1-01-07-90",
+            "name": "黔东南",
+            "type": "c",
+            "parentId": "1-01-07"
+        },
+        {
+            "areaid": "1-01-07-91",
+            "name": "黔南",
+            "type": "c",
+            "parentId": "1-01-07"
+        },
+        {
+            "areaid": "1-01-07-92",
+            "name": "黔西南",
+            "type": "c",
+            "parentId": "1-01-07"
+        },
+        {
+            "areaid": "1-01-08",
+            "name": "海南",
+            "pinyin": "Hainan",
+            "shortpinyin": "HN",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-08-01",
+            "name": "白沙",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-02",
+            "name": "保亭",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-03",
+            "name": "昌江",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-04",
+            "name": "澄迈",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-06",
+            "name": "定安",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-07",
+            "name": "东方",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-08",
+            "name": "海口",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-09",
+            "name": "乐东",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-10",
+            "name": "临高",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-11",
+            "name": "陵水",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-12",
+            "name": "琼海",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-14",
+            "name": "琼中",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-15",
+            "name": "三亚",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-16",
+            "name": "屯昌",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-17",
+            "name": "万宁",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-18",
+            "name": "文昌",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-19",
+            "name": "三沙市",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-90",
+            "name": "五指山",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-08-91",
+            "name": "儋州",
+            "type": "c",
+            "parentId": "1-01-08"
+        },
+        {
+            "areaid": "1-01-09",
+            "name": "河北",
+            "pinyin": "Hebei",
+            "shortpinyin": "HB",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-09-02",
+            "name": "保定",
+            "type": "c",
+            "parentId": "1-01-09"
+        },
+        {
+            "areaid": "1-01-09-04",
+            "name": "承德",
+            "type": "c",
+            "parentId": "1-01-09"
+        },
+        {
+            "areaid": "1-01-09-12",
+            "name": "邯郸",
+            "type": "c",
+            "parentId": "1-01-09"
+        },
+        {
+            "areaid": "1-01-09-28",
+            "name": "秦皇岛",
+            "type": "c",
+            "parentId": "1-01-09"
+        },
+        {
+            "areaid": "1-01-09-35",
+            "name": "石家庄",
+            "type": "c",
+            "parentId": "1-01-09"
+        },
+        {
+            "areaid": "1-01-09-37",
+            "name": "唐山",
+            "type": "c",
+            "parentId": "1-01-09"
+        },
+        {
+            "areaid": "1-01-09-44",
+            "name": "邢台",
+            "type": "c",
+            "parentId": "1-01-09"
+        },
+        {
+            "areaid": "1-01-09-48",
+            "name": "张家口",
+            "type": "c",
+            "parentId": "1-01-09"
+        },
+        {
+            "areaid": "1-01-09-52",
+            "name": "衡水",
+            "type": "c",
+            "parentId": "1-01-09"
+        },
+        {
+            "areaid": "1-01-09-90",
+            "name": "沧州",
+            "type": "c",
+            "parentId": "1-01-09"
+        },
+        {
+            "areaid": "1-01-09-91",
+            "name": "廊坊",
+            "type": "c",
+            "parentId": "1-01-09"
+        },
+        {
+            "areaid": "1-01-10",
+            "name": "河南",
+            "pinyin": "Henan",
+            "shortpinyin": "HN",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-10-01",
+            "name": "安阳",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-06",
+            "name": "鹤壁",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-10",
+            "name": "济源",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-11",
+            "name": "焦作",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-12",
+            "name": "开封",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-14",
+            "name": "洛阳",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-16",
+            "name": "平顶山",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-18",
+            "name": "三门峡",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-22",
+            "name": "新乡",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-24",
+            "name": "信阳",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-28",
+            "name": "郑州",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-31",
+            "name": "南阳",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-33",
+            "name": "商丘",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-34",
+            "name": "驻马店",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-90",
+            "name": "许昌",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-91",
+            "name": "周口",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-92",
+            "name": "漯河",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-10-93",
+            "name": "濮阳",
+            "type": "c",
+            "parentId": "1-01-10"
+        },
+        {
+            "areaid": "1-01-11",
+            "name": "黑龙江",
+            "pinyin": "Heilongjiang",
+            "shortpinyin": "HLJ",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-11-03",
+            "name": "大庆",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-05",
+            "name": "哈尔滨",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-07",
+            "name": "鹤岗",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-08",
+            "name": "黑河",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-11",
+            "name": "佳木斯",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-15",
+            "name": "牡丹江",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-16",
+            "name": "齐齐哈尔",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-19",
+            "name": "双鸭山",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-20",
+            "name": "绥化",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-25",
+            "name": "伊春",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-90",
+            "name": "大兴安岭",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-91",
+            "name": "鸡西",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-11-92",
+            "name": "七台河",
+            "type": "c",
+            "parentId": "1-01-11"
+        },
+        {
+            "areaid": "1-01-12",
+            "name": "湖北",
+            "pinyin": "Hubei",
+            "shortpinyin": "HB",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-12-03",
+            "name": "鄂州",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-04",
+            "name": "恩施",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-08",
+            "name": "黄石",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-10",
+            "name": "神农架",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-11",
+            "name": "十堰",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-13",
+            "name": "武汉",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-14",
+            "name": "襄阳",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-15",
+            "name": "孝感",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-16",
+            "name": "宜昌",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-20",
+            "name": "随州",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-22",
+            "name": "荆州",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-24",
+            "name": "黄冈",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-90",
+            "name": "荆门",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-91",
+            "name": "潜江",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-92",
+            "name": "天门",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-93",
+            "name": "仙桃",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-12-94",
+            "name": "咸宁",
+            "type": "c",
+            "parentId": "1-01-12"
+        },
+        {
+            "areaid": "1-01-13",
+            "name": "湖南",
+            "pinyin": "Hunan",
+            "shortpinyin": "HN",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-13-03",
+            "name": "长沙",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-04",
+            "name": "常德",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-06",
+            "name": "郴州",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-07",
+            "name": "衡阳",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-09",
+            "name": "怀化",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-10",
+            "name": "湘西",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-18",
+            "name": "邵阳",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-20",
+            "name": "湘潭",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-25",
+            "name": "岳阳",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-26",
+            "name": "张家界",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-27",
+            "name": "株洲",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-90",
+            "name": "娄底",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-91",
+            "name": "益阳",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-13-92",
+            "name": "永州",
+            "type": "c",
+            "parentId": "1-01-13"
+        },
+        {
+            "areaid": "1-01-14",
+            "name": "吉林",
+            "pinyin": "Jilin",
+            "shortpinyin": "JL",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-14-02",
+            "name": "长春",
+            "type": "c",
+            "parentId": "1-01-14"
+        },
+        {
+            "areaid": "1-01-14-08",
+            "name": "吉林",
+            "type": "c",
+            "parentId": "1-01-14"
+        },
+        {
+            "areaid": "1-01-14-14",
+            "name": "四平",
+            "type": "c",
+            "parentId": "1-01-14"
+        },
+        {
+            "areaid": "1-01-14-22",
+            "name": "通化",
+            "type": "c",
+            "parentId": "1-01-14"
+        },
+        {
+            "areaid": "1-01-14-90",
+            "name": "白城",
+            "type": "c",
+            "parentId": "1-01-14"
+        },
+        {
+            "areaid": "1-01-14-91",
+            "name": "白山",
+            "type": "c",
+            "parentId": "1-01-14"
+        },
+        {
+            "areaid": "1-01-14-92",
+            "name": "辽源",
+            "type": "c",
+            "parentId": "1-01-14"
+        },
+        {
+            "areaid": "1-01-14-93",
+            "name": "松原",
+            "type": "c",
+            "parentId": "1-01-14"
+        },
+        {
+            "areaid": "1-01-14-94",
+            "name": "延边",
+            "type": "c",
+            "parentId": "1-01-14"
+        },
+        {
+            "areaid": "1-01-15",
+            "name": "江苏",
+            "pinyin": "Jiangsu",
+            "shortpinyin": "JS",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-15-03",
+            "name": "常州",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-11",
+            "name": "淮安",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-19",
+            "name": "连云港",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-22",
+            "name": "南京",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-23",
+            "name": "南通",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-31",
+            "name": "苏州",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-32",
+            "name": "宿迁",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-35",
+            "name": "泰州",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-37",
+            "name": "无锡",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-42",
+            "name": "徐州",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-43",
+            "name": "盐城",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-44",
+            "name": "扬州",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-15-46",
+            "name": "镇江",
+            "type": "c",
+            "parentId": "1-01-15"
+        },
+        {
+            "areaid": "1-01-16",
+            "name": "江西",
+            "pinyin": "Jiangxi",
+            "shortpinyin": "JX",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-16-05",
+            "name": "赣州",
+            "type": "c",
+            "parentId": "1-01-16"
+        },
+        {
+            "areaid": "1-01-16-11",
+            "name": "景德镇",
+            "type": "c",
+            "parentId": "1-01-16"
+        },
+        {
+            "areaid": "1-01-16-12",
+            "name": "九江",
+            "type": "c",
+            "parentId": "1-01-16"
+        },
+        {
+            "areaid": "1-01-16-14",
+            "name": "南昌",
+            "type": "c",
+            "parentId": "1-01-16"
+        },
+        {
+            "areaid": "1-01-16-16",
+            "name": "萍乡",
+            "type": "c",
+            "parentId": "1-01-16"
+        },
+        {
+            "areaid": "1-01-16-19",
+            "name": "上饶",
+            "type": "c",
+            "parentId": "1-01-16"
+        },
+        {
+            "areaid": "1-01-16-26",
+            "name": "鹰潭",
+            "type": "c",
+            "parentId": "1-01-16"
+        },
+        {
+            "areaid": "1-01-16-32",
+            "name": "吉安",
+            "type": "c",
+            "parentId": "1-01-16"
+        },
+        {
+            "areaid": "1-01-16-90",
+            "name": "抚州",
+            "type": "c",
+            "parentId": "1-01-16"
+        },
+        {
+            "areaid": "1-01-16-91",
+            "name": "新余",
+            "type": "c",
+            "parentId": "1-01-16"
+        },
+        {
+            "areaid": "1-01-16-92",
+            "name": "宜春",
+            "type": "c",
+            "parentId": "1-01-16"
+        },
+        {
+            "areaid": "1-01-17",
+            "name": "辽宁",
+            "pinyin": "Liaoning",
+            "shortpinyin": "LN",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-17-01",
+            "name": "鞍山",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-05",
+            "name": "本溪",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-08",
+            "name": "朝阳",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-09",
+            "name": "大连",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-11",
+            "name": "丹东",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-16",
+            "name": "抚顺",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-17",
+            "name": "阜新",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-27",
+            "name": "锦州",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-31",
+            "name": "辽阳",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-36",
+            "name": "沈阳",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-40",
+            "name": "铁岭",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-48",
+            "name": "营口",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-52",
+            "name": "葫芦岛",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-17-90",
+            "name": "盘锦",
+            "type": "c",
+            "parentId": "1-01-17"
+        },
+        {
+            "areaid": "1-01-18",
+            "name": "内蒙古",
+            "pinyin": "Neimenggu",
+            "shortpinyin": "NMG",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-18-04",
+            "name": "包头",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-18-09",
+            "name": "赤峰",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-18-20",
+            "name": "呼和浩特",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-18-34",
+            "name": "乌海",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-18-47",
+            "name": "阿拉善盟",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-18-90",
+            "name": "巴彦淖尔盟",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-18-91",
+            "name": "鄂尔多斯",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-18-92",
+            "name": "呼伦贝尔",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-18-93",
+            "name": "通辽",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-18-94",
+            "name": "乌兰察布盟",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-18-95",
+            "name": "锡林郭勒盟",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-18-96",
+            "name": "兴安盟",
+            "type": "c",
+            "parentId": "1-01-18"
+        },
+        {
+            "areaid": "1-01-19",
+            "name": "宁夏",
+            "pinyin": "Ningxia",
+            "shortpinyin": "NX",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-19-01",
+            "name": "固原",
+            "type": "c",
+            "parentId": "1-01-19"
+        },
+        {
+            "areaid": "1-01-19-09",
+            "name": "石嘴山",
+            "type": "c",
+            "parentId": "1-01-19"
+        },
+        {
+            "areaid": "1-01-19-12",
+            "name": "吴忠",
+            "type": "c",
+            "parentId": "1-01-19"
+        },
+        {
+            "areaid": "1-01-19-15",
+            "name": "银川",
+            "type": "c",
+            "parentId": "1-01-19"
+        },
+        {
+            "areaid": "1-01-20",
+            "name": "青海",
+            "pinyin": "Qinghai",
+            "shortpinyin": "QH",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-20-33",
+            "name": "西宁",
+            "type": "c",
+            "parentId": "1-01-20"
+        },
+        {
+            "areaid": "1-01-20-36",
+            "name": "玉树",
+            "type": "c",
+            "parentId": "1-01-20"
+        },
+        {
+            "areaid": "1-01-20-90",
+            "name": "果洛",
+            "type": "c",
+            "parentId": "1-01-20"
+        },
+        {
+            "areaid": "1-01-20-91",
+            "name": "海北",
+            "type": "c",
+            "parentId": "1-01-20"
+        },
+        {
+            "areaid": "1-01-20-92",
+            "name": "海东",
+            "type": "c",
+            "parentId": "1-01-20"
+        },
+        {
+            "areaid": "1-01-20-93",
+            "name": "海南",
+            "type": "c",
+            "parentId": "1-01-20"
+        },
+        {
+            "areaid": "1-01-20-94",
+            "name": "海西",
+            "type": "c",
+            "parentId": "1-01-20"
+        },
+        {
+            "areaid": "1-01-20-95",
+            "name": "黄南",
+            "type": "c",
+            "parentId": "1-01-20"
+        },
+        {
+            "areaid": "1-01-21",
+            "name": "山东",
+            "pinyin": "Shandong",
+            "shortpinyin": "SD",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-21-03",
+            "name": "滨州",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-06",
+            "name": "德州",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-07",
+            "name": "东营",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-13",
+            "name": "济南",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-29",
+            "name": "青岛",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-33",
+            "name": "泰安",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-35",
+            "name": "威海",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-36",
+            "name": "潍坊",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-41",
+            "name": "烟台",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-44",
+            "name": "枣庄",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-48",
+            "name": "淄博",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-50",
+            "name": "临沂",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-52",
+            "name": "日照",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-90",
+            "name": "菏泽",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-91",
+            "name": "济宁",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-92",
+            "name": "莱芜",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-21-93",
+            "name": "聊城",
+            "type": "c",
+            "parentId": "1-01-21"
+        },
+        {
+            "areaid": "1-01-22",
+            "name": "山西",
+            "pinyin": "Shanxi",
+            "shortpinyin": "SX",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-22-02",
+            "name": "长治",
+            "type": "c",
+            "parentId": "1-01-22"
+        },
+        {
+            "areaid": "1-01-22-03",
+            "name": "大同",
+            "type": "c",
+            "parentId": "1-01-22"
+        },
+        {
+            "areaid": "1-01-22-18",
+            "name": "临汾",
+            "type": "c",
+            "parentId": "1-01-22"
+        },
+        {
+            "areaid": "1-01-22-35",
+            "name": "太原",
+            "type": "c",
+            "parentId": "1-01-22"
+        },
+        {
+            "areaid": "1-01-22-44",
+            "name": "阳泉",
+            "type": "c",
+            "parentId": "1-01-22"
+        },
+        {
+            "areaid": "1-01-22-50",
+            "name": "运城",
+            "type": "c",
+            "parentId": "1-01-22"
+        },
+        {
+            "areaid": "1-01-22-53",
+            "name": "晋城",
+            "type": "c",
+            "parentId": "1-01-22"
+        },
+        {
+            "areaid": "1-01-22-90",
+            "name": "晋中",
+            "type": "c",
+            "parentId": "1-01-22"
+        },
+        {
+            "areaid": "1-01-22-91",
+            "name": "吕梁",
+            "type": "c",
+            "parentId": "1-01-22"
+        },
+        {
+            "areaid": "1-01-22-92",
+            "name": "朔州",
+            "type": "c",
+            "parentId": "1-01-22"
+        },
+        {
+            "areaid": "1-01-22-93",
+            "name": "忻州",
+            "type": "c",
+            "parentId": "1-01-22"
+        },
+        {
+            "areaid": "1-01-23",
+            "name": "陕西",
+            "pinyin": "Shanxi",
+            "shortpinyin": "SX",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-23-01",
+            "name": "安康",
+            "type": "c",
+            "parentId": "1-01-23"
+        },
+        {
+            "areaid": "1-01-23-03",
+            "name": "宝鸡",
+            "type": "c",
+            "parentId": "1-01-23"
+        },
+        {
+            "areaid": "1-01-23-14",
+            "name": "汉中",
+            "type": "c",
+            "parentId": "1-01-23"
+        },
+        {
+            "areaid": "1-01-23-33",
+            "name": "铜川",
+            "type": "c",
+            "parentId": "1-01-23"
+        },
+        {
+            "areaid": "1-01-23-37",
+            "name": "西安",
+            "type": "c",
+            "parentId": "1-01-23"
+        },
+        {
+            "areaid": "1-01-23-38",
+            "name": "咸阳",
+            "type": "c",
+            "parentId": "1-01-23"
+        },
+        {
+            "areaid": "1-01-23-39",
+            "name": "延安",
+            "type": "c",
+            "parentId": "1-01-23"
+        },
+        {
+            "areaid": "1-01-23-46",
+            "name": "榆林",
+            "type": "c",
+            "parentId": "1-01-23"
+        },
+        {
+            "areaid": "1-01-23-90",
+            "name": "商洛",
+            "type": "c",
+            "parentId": "1-01-23"
+        },
+        {
+            "areaid": "1-01-23-91",
+            "name": "渭南",
+            "type": "c",
+            "parentId": "1-01-23"
+        },
+        {
+            "areaid": "1-01-23-92",
+            "name": "华阴",
+            "type": "c",
+            "parentId": "1-01-23"
+        },
+        {
+            "areaid": "1-01-24",
+            "name": "上海",
+            "pinyin": "Shanghai",
+            "shortpinyin": "SH",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-24-01",
+            "name": "上海",
+            "type": "c",
+            "parentId": "1-01-24"
+        },
+        {
+            "areaid": "1-01-25",
+            "name": "四川",
+            "pinyin": "Sichuan",
+            "shortpinyin": "SC",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-25-03",
+            "name": "巴中",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-05",
+            "name": "成都",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-10",
+            "name": "德阳",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-14",
+            "name": "广元",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-22",
+            "name": "乐山",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-24",
+            "name": "绵阳",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-26",
+            "name": "内江",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-39",
+            "name": "遂宁",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-47",
+            "name": "宜宾",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-49",
+            "name": "资阳",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-54",
+            "name": "自贡",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-55",
+            "name": "阿坝",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-56",
+            "name": "甘孜",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-63",
+            "name": "南充",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-69",
+            "name": "雅安",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-90",
+            "name": "达州",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-91",
+            "name": "广安",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-92",
+            "name": "凉山",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-93",
+            "name": "眉山",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-94",
+            "name": "攀枝花",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-25-95",
+            "name": "泸州",
+            "type": "c",
+            "parentId": "1-01-25"
+        },
+        {
+            "areaid": "1-01-26",
+            "name": "天津",
+            "pinyin": "Tianjin",
+            "shortpinyin": "TJ",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-26-01",
+            "name": "天津",
+            "type": "c",
+            "parentId": "1-01-26"
+        },
+        {
+            "areaid": "1-01-27",
+            "name": "西藏",
+            "pinyin": "Xizang",
+            "shortpinyin": "XZ",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-27-18",
+            "name": "拉萨",
+            "type": "c",
+            "parentId": "1-01-27"
+        },
+        {
+            "areaid": "1-01-27-20",
+            "name": "林芝",
+            "type": "c",
+            "parentId": "1-01-27"
+        },
+        {
+            "areaid": "1-01-27-28",
+            "name": "那曲",
+            "type": "c",
+            "parentId": "1-01-27"
+        },
+        {
+            "areaid": "1-01-27-32",
+            "name": "日喀则",
+            "type": "c",
+            "parentId": "1-01-27"
+        },
+        {
+            "areaid": "1-01-27-36",
+            "name": "阿里",
+            "type": "c",
+            "parentId": "1-01-27"
+        },
+        {
+            "areaid": "1-01-27-40",
+            "name": "山南",
+            "type": "c",
+            "parentId": "1-01-27"
+        },
+        {
+            "areaid": "1-01-27-90",
+            "name": "昌都",
+            "type": "c",
+            "parentId": "1-01-27"
+        },
+        {
+            "areaid": "1-01-28",
+            "name": "新疆",
+            "pinyin": "Xinjiang",
+            "shortpinyin": "XJ",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-28-01",
+            "name": "阿克苏",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-02",
+            "name": "阿勒泰",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-03",
+            "name": "塔城",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-12",
+            "name": "和田",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-15",
+            "name": "克拉玛依",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-29",
+            "name": "石河子",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-30",
+            "name": "吐鲁番",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-34",
+            "name": "乌鲁木齐",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-90",
+            "name": "阿拉尔",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-91",
+            "name": "巴音郭楞",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-92",
+            "name": "博尔塔拉",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-93",
+            "name": "昌吉",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-94",
+            "name": "哈密",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-95",
+            "name": "喀什",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-96",
+            "name": "克孜勒苏柯尔克孜",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-97",
+            "name": "图木舒克",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-98",
+            "name": "五家渠",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-28-99",
+            "name": "伊犁",
+            "type": "c",
+            "parentId": "1-01-28"
+        },
+        {
+            "areaid": "1-01-29",
+            "name": "云南",
+            "pinyin": "Yunnan",
+            "shortpinyin": "YN",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-29-02",
+            "name": "保山",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-05",
+            "name": "楚雄",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-07",
+            "name": "大理",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-08",
+            "name": "德宏",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-09",
+            "name": "迪庆",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-15",
+            "name": "红河",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-22",
+            "name": "昆明",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-23",
+            "name": "丽江",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-32",
+            "name": "曲靖",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-35",
+            "name": "思茅",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-40",
+            "name": "文山",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-41",
+            "name": "西双版纳",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-51",
+            "name": "玉溪",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-53",
+            "name": "昭通",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-64",
+            "name": "怒江",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-29-65",
+            "name": "临沧",
+            "type": "c",
+            "parentId": "1-01-29"
+        },
+        {
+            "areaid": "1-01-30",
+            "name": "浙江",
+            "pinyin": "Zhejiang",
+            "shortpinyin": "ZJ",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-30-16",
+            "name": "杭州",
+            "type": "c",
+            "parentId": "1-01-30"
+        },
+        {
+            "areaid": "1-01-30-17",
+            "name": "湖州",
+            "type": "c",
+            "parentId": "1-01-30"
+        },
+        {
+            "areaid": "1-01-30-20",
+            "name": "嘉兴",
+            "type": "c",
+            "parentId": "1-01-30"
+        },
+        {
+            "areaid": "1-01-30-24",
+            "name": "金华",
+            "type": "c",
+            "parentId": "1-01-30"
+        },
+        {
+            "areaid": "1-01-30-29",
+            "name": "丽水",
+            "type": "c",
+            "parentId": "1-01-30"
+        },
+        {
+            "areaid": "1-01-30-33",
+            "name": "宁波",
+            "type": "c",
+            "parentId": "1-01-30"
+        },
+        {
+            "areaid": "1-01-30-39",
+            "name": "舟山",
+            "type": "c",
+            "parentId": "1-01-30"
+        },
+        {
+            "areaid": "1-01-30-42",
+            "name": "衢州",
+            "type": "c",
+            "parentId": "1-01-30"
+        },
+        {
+            "areaid": "1-01-30-46",
+            "name": "绍兴",
+            "type": "c",
+            "parentId": "1-01-30"
+        },
+        {
+            "areaid": "1-01-30-56",
+            "name": "温州",
+            "type": "c",
+            "parentId": "1-01-30"
+        },
+        {
+            "areaid": "1-01-30-74",
+            "name": "台州",
+            "type": "c",
+            "parentId": "1-01-30"
+        },
+        {
+            "areaid": "1-01-31",
+            "name": "重庆",
+            "pinyin": "Chongqing",
+            "shortpinyin": "CQ",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-31-01",
+            "name": "重庆",
+            "type": "c",
+            "parentId": "1-01-31"
+        },
+        {
+            "areaid": "1-01-32",
+            "name": "香港",
+            "pinyin": "Xianggang",
+            "shortpinyin": "XG",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-32-01",
+            "name": "香港",
+            "type": "c",
+            "parentId": "1-01-32"
+        },
+        {
+            "areaid": "1-01-33",
+            "name": "澳门",
+            "pinyin": "Aomen",
+            "shortpinyin": "AM",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-33-01",
+            "name": "澳门",
+            "type": "c",
+            "parentId": "1-01-33"
+        },
+        {
+            "areaid": "1-01-34",
+            "name": "台湾",
+            "pinyin": "Taiwan",
+            "shortpinyin": "TW",
+            "type": "s"
+        },
+        {
+            "areaid": "1-01-34-01",
+            "name": "高雄",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-02",
+            "name": "嘉义",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-03",
+            "name": "南投",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-04",
+            "name": "台北",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-05",
+            "name": "台东",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-06",
+            "name": "台南",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-07",
+            "name": "台中",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-08",
+            "name": "屏东",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-09",
+            "name": "花莲",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-10",
+            "name": "新竹",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-11",
+            "name": "宜兰",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-12",
+            "name": "基隆",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-13",
+            "name": "桃园",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-14",
+            "name": "苗栗",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-15",
+            "name": "彰化",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-16",
+            "name": "云林",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-17",
+            "name": "澎湖",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-18",
+            "name": "马祖",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-01-34-19",
+            "name": "金门",
+            "type": "c",
+            "parentId": "1-01-34"
+        },
+        {
+            "areaid": "1-02",
+            "name": "日本",
+            "pinyin": "Riben",
+            "shortpinyin": "RB",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-03",
+            "name": "韩国",
+            "pinyin": "Hanguo",
+            "shortpinyin": "HG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-04",
+            "name": "新加坡",
+            "pinyin": "Xinjiapo",
+            "shortpinyin": "XJP",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-05",
+            "name": "马来西亚",
+            "pinyin": "Malaixiya",
+            "shortpinyin": "MLXY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-06",
+            "name": "泰国",
+            "pinyin": "Taiguo",
+            "shortpinyin": "TG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-07",
+            "name": "印度",
+            "pinyin": "Yindu",
+            "shortpinyin": "YD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-08",
+            "name": "马尔代夫",
+            "pinyin": "Maerdaifu",
+            "shortpinyin": "MEDF",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-09",
+            "name": "尼泊尔",
+            "pinyin": "Niboer",
+            "shortpinyin": "NBE",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-10",
+            "name": "越南",
+            "pinyin": "Yuenan",
+            "shortpinyin": "YN",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-11",
+            "name": "柬埔寨",
+            "pinyin": "Jianpuzhai",
+            "shortpinyin": "JPZ",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-12",
+            "name": "菲律宾",
+            "pinyin": "Feilvbing",
+            "shortpinyin": "FLB",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-13",
+            "name": "印度尼西亚",
+            "pinyin": "Yindunixiya",
+            "shortpinyin": "YDNXY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-14",
+            "name": "斯里兰卡",
+            "pinyin": "Sililanka",
+            "shortpinyin": "SLLK",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-15",
+            "name": "阿联酋",
+            "pinyin": "Alianqiu",
+            "shortpinyin": "ALQ",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-16",
+            "name": "巴基斯坦",
+            "pinyin": "Bajisitan",
+            "shortpinyin": "BJST",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-17",
+            "name": "阿富汗",
+            "pinyin": "Afuhan",
+            "shortpinyin": "AFH",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-18",
+            "name": "缅甸",
+            "pinyin": "Miandian",
+            "shortpinyin": "MD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-19",
+            "name": "老挝",
+            "pinyin": "Laowo",
+            "shortpinyin": "LW",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-20",
+            "name": "朝鲜",
+            "pinyin": "Caoxian",
+            "shortpinyin": "CX",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-21",
+            "name": "蒙古国",
+            "pinyin": "Mengguguo",
+            "shortpinyin": "MGG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-22",
+            "name": "东帝汶",
+            "pinyin": "Dongdiwen",
+            "shortpinyin": "DDW",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-23",
+            "name": "哈萨克斯坦",
+            "pinyin": "Hasakesitan",
+            "shortpinyin": "HSKST",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-24",
+            "name": "文莱",
+            "pinyin": "Wenlai",
+            "shortpinyin": "WL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-25",
+            "name": "叙利亚",
+            "pinyin": "Xuliya",
+            "shortpinyin": "XLY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-26",
+            "name": "伊朗",
+            "pinyin": "Yilang",
+            "shortpinyin": "YL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-27",
+            "name": "以色列",
+            "pinyin": "Yiselie",
+            "shortpinyin": "YSL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-28",
+            "name": "黎巴嫩",
+            "pinyin": "Libanen",
+            "shortpinyin": "LBN",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-29",
+            "name": "巴勒斯坦",
+            "pinyin": "Balesitan",
+            "shortpinyin": "BLST",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-30",
+            "name": "卡塔尔",
+            "pinyin": "Kataer",
+            "shortpinyin": "KTE",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-31",
+            "name": "沙特阿拉伯",
+            "pinyin": "Shatealabo",
+            "shortpinyin": "STALB",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-32",
+            "name": "伊拉克",
+            "pinyin": "Yilake",
+            "shortpinyin": "YLK",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-33",
+            "name": "约旦",
+            "pinyin": "Yuedan",
+            "shortpinyin": "YD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-34",
+            "name": "孟加拉",
+            "pinyin": "Mengjiala",
+            "shortpinyin": "MJL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-35",
+            "name": "乌兹别克斯坦",
+            "pinyin": "Wuzibiekesitan",
+            "shortpinyin": "WZBKST",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-36",
+            "name": "不丹",
+            "pinyin": "Budan",
+            "shortpinyin": "BD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-37",
+            "name": "科威特",
+            "pinyin": "Keweite",
+            "shortpinyin": "KWT",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-38",
+            "name": "也门",
+            "pinyin": "Yemen",
+            "shortpinyin": "YM",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-39",
+            "name": "巴林",
+            "pinyin": "Balin",
+            "shortpinyin": "BL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "1-40",
+            "name": "阿曼",
+            "pinyin": "Aman",
+            "shortpinyin": "AM",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2",
+            "name": "海外",
+            "pinyin": "Abroad",
+            "shortpinyin": "AB",
+            "type": "s"
+        },
+        {
+            "areaid": "2-01",
+            "name": "英国",
+            "pinyin": "Yingguo",
+            "shortpinyin": "YG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-02",
+            "name": "法国",
+            "pinyin": "Faguo",
+            "shortpinyin": "FG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-03",
+            "name": "德国",
+            "pinyin": "Deguo",
+            "shortpinyin": "DG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-04",
+            "name": "意大利",
+            "pinyin": "Yidali",
+            "shortpinyin": "YDL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-05",
+            "name": "俄罗斯",
+            "pinyin": "Eluosi",
+            "shortpinyin": "ELS",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-06",
+            "name": "西班牙",
+            "pinyin": "Xibanya",
+            "shortpinyin": "XBY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-07",
+            "name": "瑞士",
+            "pinyin": "Ruishi",
+            "shortpinyin": "RS",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-08",
+            "name": "比利时",
+            "pinyin": "Bilishi",
+            "shortpinyin": "BLS",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-09",
+            "name": "希腊",
+            "pinyin": "Xila",
+            "shortpinyin": "XL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-10",
+            "name": "卢森堡",
+            "pinyin": "Lusenbao",
+            "shortpinyin": "LSB",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-11",
+            "name": "荷兰",
+            "pinyin": "Helan",
+            "shortpinyin": "HL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-12",
+            "name": "奥地利",
+            "pinyin": "Aodili",
+            "shortpinyin": "ADL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-13",
+            "name": "丹麦",
+            "pinyin": "Danmai",
+            "shortpinyin": "DM",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-14",
+            "name": "爱尔兰",
+            "pinyin": "Aierlan",
+            "shortpinyin": "AEL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-15",
+            "name": "波兰",
+            "pinyin": "Polan",
+            "shortpinyin": "PL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-16",
+            "name": "罗马尼亚",
+            "pinyin": "Luomaniya",
+            "shortpinyin": "LMNY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-17",
+            "name": "克罗地亚",
+            "pinyin": "Keluodiya",
+            "shortpinyin": "KLDY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-18",
+            "name": "匈牙利",
+            "pinyin": "Xiongyali",
+            "shortpinyin": "XYL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-19",
+            "name": "葡萄牙",
+            "pinyin": "Putaoya",
+            "shortpinyin": "PTY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-20",
+            "name": "梵蒂冈",
+            "pinyin": "Fantigang",
+            "shortpinyin": "FTG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-21",
+            "name": "捷克",
+            "pinyin": "Jieke",
+            "shortpinyin": "JK",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-22",
+            "name": "斯洛伐克",
+            "pinyin": "Siluofake",
+            "shortpinyin": "SLFK",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-23",
+            "name": "瑞典",
+            "pinyin": "Ruidian",
+            "shortpinyin": "RD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-24",
+            "name": "挪威",
+            "pinyin": "Nuowei",
+            "shortpinyin": "NW",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-25",
+            "name": "芬兰",
+            "pinyin": "Fenlan",
+            "shortpinyin": "FL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-26",
+            "name": "马耳他",
+            "pinyin": "Maerta",
+            "shortpinyin": "MET",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-27",
+            "name": "土耳其",
+            "pinyin": "Tuerqi",
+            "shortpinyin": "TEQ",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-28",
+            "name": "冰岛",
+            "pinyin": "Bingdao",
+            "shortpinyin": "BD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-29",
+            "name": "摩纳哥",
+            "pinyin": "Monage",
+            "shortpinyin": "MNG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-30",
+            "name": "乌克兰",
+            "pinyin": "Wukelan",
+            "shortpinyin": "WKL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-31",
+            "name": "安道尔",
+            "pinyin": "Andaoer",
+            "shortpinyin": "ADE",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-32",
+            "name": "圣马力诺",
+            "pinyin": "Shengmalinuo",
+            "shortpinyin": "SMLN",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-33",
+            "name": "白俄罗斯",
+            "pinyin": "Baieluosi",
+            "shortpinyin": "BELS",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-34",
+            "name": "列支敦士登",
+            "pinyin": "Liezhidunshideng",
+            "shortpinyin": "LZDSD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-35",
+            "name": "保加利亚",
+            "pinyin": "Baojialiya",
+            "shortpinyin": "BJLY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-36",
+            "name": "塞浦路斯",
+            "pinyin": "Saipulusi",
+            "shortpinyin": "SPLS",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-37",
+            "name": "爱沙尼亚",
+            "pinyin": "Aishaniya",
+            "shortpinyin": "ASNY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-38",
+            "name": "拉脱维亚",
+            "pinyin": "Latuoweiya",
+            "shortpinyin": "LTWY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-39",
+            "name": "立陶宛",
+            "pinyin": "Litaowan",
+            "shortpinyin": "LTW",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-40",
+            "name": "斯洛文尼亚",
+            "pinyin": "Siluowenniya",
+            "shortpinyin": "SLWNY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-41",
+            "name": "阿尔巴尼亚",
+            "pinyin": "Aerbaniya",
+            "shortpinyin": "AEBNY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-42",
+            "name": "塞尔维亚",
+            "pinyin": "Saierweiya",
+            "shortpinyin": "SEWY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-43",
+            "name": "黑山共和国",
+            "pinyin": "Heishangongheguo",
+            "shortpinyin": "HSGHG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-44",
+            "name": "波黑",
+            "pinyin": "Pohei",
+            "shortpinyin": "PH",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-45",
+            "name": "马其顿",
+            "pinyin": "Maqidun",
+            "shortpinyin": "MQD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-46",
+            "name": "格鲁吉亚",
+            "pinyin": "Gelujiya",
+            "shortpinyin": "GLJY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-47",
+            "name": "阿塞拜疆",
+            "pinyin": "Asaibaijiang",
+            "shortpinyin": "ASBJ",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "2-48",
+            "name": "亚美尼亚",
+            "pinyin": "Yameiniya",
+            "shortpinyin": "YMNY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-01",
+            "name": "埃及",
+            "pinyin": "Aiji",
+            "shortpinyin": "AJ",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-02",
+            "name": "摩洛哥",
+            "pinyin": "Moluoge",
+            "shortpinyin": "MLG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-03",
+            "name": "南非",
+            "pinyin": "Nanfei",
+            "shortpinyin": "NF",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-04",
+            "name": "加蓬",
+            "pinyin": "Jiateng",
+            "shortpinyin": "JT",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-05",
+            "name": "利比亚",
+            "pinyin": "Libiya",
+            "shortpinyin": "LBY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-06",
+            "name": "肯尼亚",
+            "pinyin": "Kenniya",
+            "shortpinyin": "KNY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-07",
+            "name": "津巴布韦",
+            "pinyin": "Jinbabuwei",
+            "shortpinyin": "JBBW",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-08",
+            "name": "毛里求斯",
+            "pinyin": "Maoliqiusi",
+            "shortpinyin": "MLQS",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-09",
+            "name": "坦桑尼亚",
+            "pinyin": "Tansangniya",
+            "shortpinyin": "TSNY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-10",
+            "name": "喀麦隆",
+            "pinyin": "Kamailong",
+            "shortpinyin": "KML",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-11",
+            "name": "苏丹",
+            "pinyin": "Sudan",
+            "shortpinyin": "SD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-12",
+            "name": "突尼斯",
+            "pinyin": "Tunisi",
+            "shortpinyin": "TNS",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-13",
+            "name": "塞舌尔",
+            "pinyin": "Saiseer",
+            "shortpinyin": "SSE",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-14",
+            "name": "塞内加尔",
+            "pinyin": "Saineijiaer",
+            "shortpinyin": "SNJE",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-15",
+            "name": "塞拉利昂",
+            "pinyin": "Sailaliang",
+            "shortpinyin": "SLLA",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-16",
+            "name": "加纳",
+            "pinyin": "Jiana",
+            "shortpinyin": "JN",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-17",
+            "name": "尼日利亚",
+            "pinyin": "Niriliya",
+            "shortpinyin": "NRLY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-18",
+            "name": "多哥",
+            "pinyin": "Duoge",
+            "shortpinyin": "DG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-19",
+            "name": "贝宁",
+            "pinyin": "Beining",
+            "shortpinyin": "BN",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-20",
+            "name": "埃塞俄比亚",
+            "pinyin": "Aisaiebiya",
+            "shortpinyin": "ASEBY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-21",
+            "name": "马达加斯加",
+            "pinyin": "Madajiasijia",
+            "shortpinyin": "MDJSJ",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-22",
+            "name": "阿尔及利亚",
+            "pinyin": "Aerjiliya",
+            "shortpinyin": "AEJLY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-23",
+            "name": "纳米比亚",
+            "pinyin": "Namibiya",
+            "shortpinyin": "NMBY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-24",
+            "name": "毛里塔尼亚",
+            "pinyin": "Maolitaniya",
+            "shortpinyin": "MLTNY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-25",
+            "name": "马里",
+            "pinyin": "Mali",
+            "shortpinyin": "ML",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-26",
+            "name": "尼日尔",
+            "pinyin": "Nirier",
+            "shortpinyin": "NRE",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-27",
+            "name": "赞比亚",
+            "pinyin": "Zanbiya",
+            "shortpinyin": "ZBY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-28",
+            "name": "莫桑比克",
+            "pinyin": "Mosangbike",
+            "shortpinyin": "MSBK",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-29",
+            "name": "博茨瓦纳",
+            "pinyin": "Bociwana",
+            "shortpinyin": "BCWN",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-30",
+            "name": "布基纳法索",
+            "pinyin": "Bujinafasuo",
+            "shortpinyin": "BJNFS",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-31",
+            "name": "科特迪瓦",
+            "pinyin": "Ketediwa",
+            "shortpinyin": "KTDW",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-32",
+            "name": "利比里亚",
+            "pinyin": "Libiliya",
+            "shortpinyin": "LBLY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-33",
+            "name": "乌干达",
+            "pinyin": "Wuganda",
+            "shortpinyin": "WGD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-34",
+            "name": "安哥拉",
+            "pinyin": "Angela",
+            "shortpinyin": "AGL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-35",
+            "name": "厄立特里亚",
+            "pinyin": "Eliteliya",
+            "shortpinyin": "ELTLY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-36",
+            "name": "吉布提",
+            "pinyin": "Jibuti",
+            "shortpinyin": "JBT",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-37",
+            "name": "索马里",
+            "pinyin": "Somali",
+            "shortpinyin": "SML",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-38",
+            "name": "索马里兰",
+            "pinyin": "Suomalilan",
+            "shortpinyin": "SMLL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-39",
+            "name": "留尼旺",
+            "pinyin": "Liuniwang",
+            "shortpinyin": "LNW",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "3-40",
+            "name": "马拉维",
+            "pinyin": "Malawei",
+            "shortpinyin": "MLW",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-01",
+            "name": "美国",
+            "pinyin": "Meiguo",
+            "shortpinyin": "MG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-02",
+            "name": "加拿大",
+            "pinyin": "Jianada",
+            "shortpinyin": "JND",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-03",
+            "name": "墨西哥",
+            "pinyin": "Moxige",
+            "shortpinyin": "MXG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-04",
+            "name": "古巴",
+            "pinyin": "Guba",
+            "shortpinyin": "GB",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-05",
+            "name": "牙买加",
+            "pinyin": "Yamaijia",
+            "shortpinyin": "YMJ",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-06",
+            "name": "海地",
+            "pinyin": "Haidi",
+            "shortpinyin": "HD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-07",
+            "name": "波多黎各",
+            "pinyin": "Boduolige",
+            "shortpinyin": "BDLG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-08",
+            "name": "哥斯达黎加",
+            "pinyin": "Gesidalijia",
+            "shortpinyin": "GSDLJ",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-09",
+            "name": "巴拿马",
+            "pinyin": "Banama",
+            "shortpinyin": "BNM",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-10",
+            "name": "尼加拉瓜",
+            "pinyin": "Nijialagua",
+            "shortpinyin": "NJLG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-11",
+            "name": "萨尔瓦多",
+            "pinyin": "Saerwaduo",
+            "shortpinyin": "SEWD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-12",
+            "name": "洪都拉斯",
+            "pinyin": "Hongdulasi",
+            "shortpinyin": "HDLS",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-13",
+            "name": "危地马拉",
+            "pinyin": "Weidimala",
+            "shortpinyin": "WDML",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-14",
+            "name": "多米尼加",
+            "pinyin": "Duominijia",
+            "shortpinyin": "DMNJ",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "4-15",
+            "name": "巴哈马",
+            "pinyin": "Bahama",
+            "shortpinyin": "BHM",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "5-01",
+            "name": "巴西",
+            "pinyin": "Baxi",
+            "shortpinyin": "BX",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "5-02",
+            "name": "阿根廷",
+            "pinyin": "Agenting",
+            "shortpinyin": "AGT",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "5-03",
+            "name": "秘鲁",
+            "pinyin": "Milu",
+            "shortpinyin": "ML",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "5-04",
+            "name": "智利",
+            "pinyin": "Zhili",
+            "shortpinyin": "ZL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "5-05",
+            "name": "哥伦比亚",
+            "pinyin": "Gelunbiya",
+            "shortpinyin": "GLBY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "5-06",
+            "name": "委内瑞拉",
+            "pinyin": "Weineiruila",
+            "shortpinyin": "WNRL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "5-07",
+            "name": "厄瓜多尔",
+            "pinyin": "Eguaduoer",
+            "shortpinyin": "EGDE",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "5-08",
+            "name": "巴拉圭",
+            "pinyin": "Balagui",
+            "shortpinyin": "BLG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "5-09",
+            "name": "乌拉圭",
+            "pinyin": "Wulagui",
+            "shortpinyin": "WLG",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "5-10",
+            "name": "玻利维亚",
+            "pinyin": "Poliweiya",
+            "shortpinyin": "PLWY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-01",
+            "name": "澳大利亚",
+            "pinyin": "Aodaliya",
+            "shortpinyin": "ADLY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-02",
+            "name": "新西兰",
+            "pinyin": "Xinxilan",
+            "shortpinyin": "XXL",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-03",
+            "name": "斐济",
+            "pinyin": "Feiji",
+            "shortpinyin": "FJ",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-04",
+            "name": "北马里亚纳群岛",
+            "pinyin": "Beimaliyanaqundao",
+            "shortpinyin": "BMLYNQD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-05",
+            "name": "法属波里尼西亚",
+            "pinyin": "Fashubolinixiya",
+            "shortpinyin": "FSBLNXY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-06",
+            "name": "新喀里多尼亚",
+            "pinyin": "Xinkaliduoniya",
+            "shortpinyin": "XKLDNY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-07",
+            "name": "关岛",
+            "pinyin": "Guandao",
+            "shortpinyin": "GD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-08",
+            "name": "巴布亚新几内亚",
+            "pinyin": "Babuyaxinjineiya",
+            "shortpinyin": "BBYXJNY",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-09",
+            "name": "所罗门群岛",
+            "pinyin": "Suoluomenqundao",
+            "shortpinyin": "SLMQD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-10",
+            "name": "库克群岛",
+            "pinyin": "Kukequndao",
+            "shortpinyin": "KKQD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-11",
+            "name": "马绍尔群岛",
+            "pinyin": "Mashaoerqundao",
+            "shortpinyin": "MSEQD",
+            "type": "c",
+            "parentId": "2"
+        },
+        {
+            "areaid": "6-12",
+            "name": "帕劳",
+            "pinyin": "Palao",
+            "shortpinyin": "PL",
+            "type": "c",
+            "parentId": "2"
+        }
+    ]
+}
